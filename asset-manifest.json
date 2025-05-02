@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-router-dom-example/static/css/main.2322f7ed.css",
-    "main.js": "/react-router-dom-example/static/js/main.30f3ca19.js",
-    "static/js/453.f7090573.chunk.js": "/react-router-dom-example/static/js/453.f7090573.chunk.js",
-    "index.html": "/react-router-dom-example/index.html",
-    "main.2322f7ed.css.map": "/react-router-dom-example/static/css/main.2322f7ed.css.map",
-    "main.30f3ca19.js.map": "/react-router-dom-example/static/js/main.30f3ca19.js.map",
-    "453.f7090573.chunk.js.map": "/react-router-dom-example/static/js/453.f7090573.chunk.js.map"
+    "main.css": "/react-router-example/static/css/main.2322f7ed.css",
+    "main.js": "/react-router-example/static/js/main.1fcf9229.js",
+    "static/js/453.f7090573.chunk.js": "/react-router-example/static/js/453.f7090573.chunk.js",
+    "index.html": "/react-router-example/index.html",
+    "main.2322f7ed.css.map": "/react-router-example/static/css/main.2322f7ed.css.map",
+    "main.1fcf9229.js.map": "/react-router-example/static/js/main.1fcf9229.js.map",
+    "453.f7090573.chunk.js.map": "/react-router-example/static/js/453.f7090573.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2322f7ed.css",
-    "static/js/main.30f3ca19.js"
+    "static/js/main.1fcf9229.js"
   ]
 }
